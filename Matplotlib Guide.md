@@ -1,5 +1,5 @@
 # Install Dependencies
-Visit https://microsoft.com/en-us/download/confirmation.aspx?id=48145 to download the dependency for matplotlib.
+Visit [this link](https://microsoft.com/en-us/download/confirmation.aspx?id=48145) to download the dependency for matplotlib.
 After downloading it, open the file and agree to the licence to install it.
 
 In case installation fails, click `download manually` and select the x86 version and try installing again.
