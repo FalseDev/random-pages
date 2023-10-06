@@ -6,7 +6,7 @@ The site has a lot of good tutorials.
 # [HackerRank](https://hackerrank.com)
 HackerRank can be used to test your knowledge against challenges, and also learn by competing.
 
-# [GoalKicker](https://goalkicker.com)
+# [GoalKicker](https://goalkicker.com/PythonBook/)
 This is an excellent resource for intermediate level developers who want to learn more about the features of the Python language and standard library.
 
 It is presented as a lump of information in a standard textbook format, so it's not suitable for the easily bored.
