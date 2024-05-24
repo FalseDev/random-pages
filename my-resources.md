@@ -15,7 +15,6 @@
 # Rust
 
 - [NoBoilerplate](https://www.youtube.com/@NoBoilerplate)
--
 
 # Embedded
 
