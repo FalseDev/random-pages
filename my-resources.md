@@ -1,3 +1,7 @@
+---
+title: My Resources
+---
+
 # Tech
 
 - [Linus Tech Tips](https://www.youtube.com/@LinusTechTips)
