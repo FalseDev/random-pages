@@ -38,7 +38,10 @@
 
 - [Low Level Learning](https://www.youtube.com/@LowLevelLearning)
 - [Fasterthanlime](https://www.youtube.com/@fasterthanlime)
-- [Vercidium](https://www.youtube.com/@Vercidium) (Game Dev)
+
+# Game Dev
+- [Vercidium](https://www.youtube.com/@Vercidium) (Low Level Optimizations)
+- [PolyMars](https://www.youtube.com/@PolyMars)
 
 # Security
 
@@ -50,3 +53,5 @@
 # Others
 
 - [cpu.land](https://cpu.land)
+- [Nemean](https://www.youtube.com/@Nemean)
+
