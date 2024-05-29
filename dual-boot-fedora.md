@@ -1,0 +1,16 @@
+- Shrink partitions to make space for Fedora installation using windows `Partition Manager`
+	- Determine how much space to allocate for Linux
+	- Free up space on the drive as per needs
+	- Shrinking partitions may be unavailable due to windows page file
+		- Disable the windows page file in `advanced system settings`/`performance`
+- Disable bitlocker
+- Disable secure boot
+- Disable fast boot
+- Insert USB Drive with Fedora live image
+- Open Boot Menu
+	- Reboot and press boot menu key during boot
+	- Reboot to `Advanced Startup Options` using windows and go to `Troubleshoot` - `Advanced Options` - `Boot to UEFI Settings`
+- Select USB drive from boot menu
+- If using Ventoy select Fedora Live Image
+- Enter Fedora normal mode through GRUB menu
+- Install as per the instructions in the installer
