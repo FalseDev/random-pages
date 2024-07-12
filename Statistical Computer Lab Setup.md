@@ -47,7 +47,9 @@
 - Port forward hoster:8000 to lab-machine:8000
 - Open up port 8000 in azure network settings
 - use frp to forward ports
-
+	```bash
+	frpc -c ./frpc.toml
+	```
 ## References
 
 - [Docker Setup](https://docs.docker.com/engine/install/ubuntu/)
