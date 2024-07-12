@@ -15,6 +15,7 @@ title: My Resources
 
 - [mCoding](https://www.youtube.com/@mCoding)
 - [Tech With Tim](https://www.youtube.com/@TechWithTim)
+- [About async/await by Tiangolo](https://fastapi.tiangolo.com/async/#asynchronous-code)
 
 # Rust
 
@@ -58,4 +59,5 @@ title: My Resources
 
 - [cpu.land](https://cpu.land)
 - [Nemean](https://www.youtube.com/@Nemean)
+- [CS50](https://cs50.harvard.edu/)
 
